@@ -6,6 +6,7 @@
 - 😋 2020 년 진행한 프로젝트 : [Summer Code jam Lively lions 팀 리더 참가](https://github.com/python-discord/summer-code-jam-2020)
 - ⚡ 앞으로 하고 싶은 것 : Kotlin(금율결제원서버 구축 후 앱제작), 쿠버네티스 패턴, Vanilla JS (https://javascript.info/ 내용 정리), ~~라즈베리파이 클러스터~~
 
-![whywhyy's github stats](https://github-readme-stats.vercel.app/api?username=whywhyy&show_icons=true&theme=radical)
+![whywhyy's github stats](https://github-readme-stats-whywhyy.app/api?username=whywhyy&show_icons=true&theme=radical)
+github-readme-stats-topaz.vercel.app
 
 ---
