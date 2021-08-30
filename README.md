@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kangsan Kim 
 
-- 😀 현재 진행중인 프로젝트 : typescript toyproject(RestAPI, graphQL)
+- 😀 현재 진행중인 프로젝트 : typescript toyproject(RestAPI, graphQL), chai (https://github.com/OPGG-HACKTHON)
 - 🌱 현재 공부하고있는 내용 : nestjs, [Daily 알고리즘 문제풀이](https://github.com/whywhyy/daily-algol)
 - 💡 진행중인 스터디 : ...todo!
 - 😋 2020 년 진행한 프로젝트 : [Python-Discord: Summer Code jam](https://github.com/python-discord/summer-code-jam-2020), [PyWeek 30: Circle Sky](https://pyweek.org/e/Bungus/)
