@@ -2,7 +2,7 @@
 
 - 😀 현재 진행중인 프로젝트 : 탐색중.. 🤔
 - 🌱 현재 공부하고있는 내용 : [Daily 알고리즘 문제풀이](https://github.com/whywhyy/daily-algol)
-- 2021 🤠 진행한 프로젝트
+- 🤠 2021 진행한 프로젝트
   - [위핵 프로젝트](https://wehack.dev/#/) 
     - 참여 진행한 PR: https://github.com/dooboolab/hackatalk/pull/501
   - [OPGG 써비스경진대회](https://www.opgg.team/event/hackathon-2021)
