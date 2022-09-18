@@ -3,6 +3,8 @@
 - 😀 현재 진행중인 프로젝트 : 탐색중.. 🤔
 - 🌱 현재 공부하고있는 내용 : [스터디](https://github.com/st-study-group/study-log), [Daily 알고리즘 문제풀이](https://github.com/whywhyy/daily-algol)
 - ⚡ 앞으로 하고 싶은 것 : MSA 마이크로서비스 패턴 공부, 쿠버네티스 패턴, Go 언어, Rust
+- 🧐 2022 진행한 프로젝트
+  - 부트캠프 
 - 🤠 2021 진행한 프로젝트
   - [위핵 프로젝트](https://wehack.dev/#/) 
     - 참여 진행한 PR: https://github.com/dooboolab/hackatalk/pull/501
