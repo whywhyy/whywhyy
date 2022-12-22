@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Kangsan Kim 
 
-- 😀 현재 진행중인 프로젝트 : 탐색중.. 🤔
-- ⚡ 앞으로 하고 싶은 것 : Rust, wasm, Go
+- 😀 현재 진행중인 프로젝트 : 게임 매칭 일정 서비스, vpn 서비스
+- ⚡ 앞으로 배우고 싶은 것 : Rust, wasm, Go
 - 🧐 2022 진행한 프로젝트
   - [부트캠프 백엔드 리뷰어](https://boostcamp.connect.or.kr/mentor_contributor.html)
   - [스터디](https://github.com/st-study-group/study-log)
