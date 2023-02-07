@@ -4,7 +4,7 @@
 - ⚡ 앞으로 배우고 싶은 것 : Rust, wasm, Go
 - 🧐 2022 진행한 프로젝트
   - [부트캠프 백엔드 리뷰어](https://boostcamp.connect.or.kr/mentor_contributor.html)
-  - [스터디](https://github.com/st-study-group/study-log)
+  - [스터디](https://github.com/st-study-group/study-log) - 3권 스터디 진행 코틀린인액션, 이펙티브 코틀린, HTTP 완벽가이드
 - 🤠 2021 진행한 프로젝트
   - [위핵 프로젝트](https://wehack.dev/#/) 
     - 참여 진행한 PR: https://github.com/dooboolab/hackatalk/pull/501
