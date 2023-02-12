@@ -2,6 +2,8 @@
 
 - 😀 현재 진행중인 프로젝트 : 게임 매칭 일정 서비스, vpn 서비스
 - ⚡ 앞으로 배우고 싶은 것 : Rust, wasm, Go
+- 😎 2023 진행한 프로잭트
+  - TBD
 - 🧐 2022 진행한 프로젝트
   - [부트캠프 백엔드 리뷰어](https://boostcamp.connect.or.kr/mentor_contributor.html)
   - [스터디](https://github.com/st-study-group/study-log) - 3권 스터디 진행 코틀린인액션, 이펙티브 코틀린, HTTP 완벽가이드
