@@ -9,7 +9,7 @@
 - 🧐 2022 진행한 프로젝트
   - [부트캠프 백엔드 리뷰어](https://boostcamp.connect.or.kr/mentor_contributor.html)
   - [스터디](https://github.com/st-study-group/study-log) 
-    - 3권 스터디 완료 : 코틀린인액션(6.21 ~ 9.06), 이펙티브 코틀린(9.13 ~ 11.15), HTTP 완벽가이드(11.22 ~ 23.2.7)
+    - 3권 스터디 완료 : 코틀린인액션(6.21 ~ 9.6), 이펙티브 코틀린(9.13 ~ 11.15), HTTP 완벽가이드(11.22 ~ 23.2.7)
 - 🤠 2021 진행한 프로젝트
   - [위핵 프로젝트]참여 진행한 PR: https://github.com/dooboolab/hackatalk/pull/501
     - [위핵 프로젝트](https://wehack.dev/#/) 
