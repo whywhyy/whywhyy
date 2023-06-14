@@ -4,12 +4,12 @@
 - ⚡ 앞으로 배우고 싶은 것 : Rust, wasm, Go
 - 😎 2023 진행한 프로잭트
   - [스터디](https://github.com/st-study-group/study-log) 
-    - 진행중 : Real MySQL 8.0 (1권)
-    - 1권 완료 : 오브젝트
+    - 진행중 : Real MySQL 8.0 (1권) (6.27 ~ 진행중)
+    - 1권 완료 : 오브젝트 (2.21 ~ 6.13)
 - 🧐 2022 진행한 프로젝트
   - [부트캠프 백엔드 리뷰어](https://boostcamp.connect.or.kr/mentor_contributor.html)
   - [스터디](https://github.com/st-study-group/study-log) 
-    - 3권 스터디 완료 : 코틀린인액션, 이펙티브 코틀린, HTTP 완벽가이드
+    - 3권 스터디 완료 : 코틀린인액션(6.21 ~ 9.06), 이펙티브 코틀린(9.13 ~ 11.15), HTTP 완벽가이드(11.22 ~ 23.2.7)
 - 🤠 2021 진행한 프로젝트
   - [위핵 프로젝트]참여 진행한 PR: https://github.com/dooboolab/hackatalk/pull/501
     - [위핵 프로젝트](https://wehack.dev/#/) 
