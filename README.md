@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Kangsan Kim 
 
 - 😀 현재 진행중인 프로젝트 : 🤔🤔🤔 아무튼 고민중
-- ⚡ 앞으로 배우고 싶은 것 : ~~예전엔 기술이였는데~~ 돈벌이(?) 캐시카우 생성방법
+- ⚡ 앞으로 배우고 싶은 것 : ~~예전엔 기술이였는데~~ 돈벌이(?) 캐시카우 생성 방법
 - 😎 2023 진행한 프로잭트
   - [부트캠프 8기 백엔드 리뷰어](https://boostcamp.connect.or.kr/mentor_contributor.html) 
   - [스터디](https://github.com/st-study-group/study-log) 
