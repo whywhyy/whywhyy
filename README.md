@@ -1,13 +1,14 @@
 ### Hi there 👋, I'm Kangsan Kim 
 
-- 😀 현재 진행중인 프로젝트 : 게임 매칭 일정 서비스, vpn 서비스
+- 😀 현재 진행중인 프로젝트 : 🤔🤔🤔 아무튼 고민중
 - ⚡ 앞으로 배우고 싶은 것 : Rust, wasm, Go
 - 😎 2023 진행한 프로잭트
+  - [부트캠프 8기 백엔드 리뷰어](https://boostcamp.connect.or.kr/mentor_contributor.html) 
   - [스터디](https://github.com/st-study-group/study-log) 
-    - 진행중 : Real MySQL 8.0 (1권) (6.27 ~ 진행중)
-    - 1권 완료 : 오브젝트 (2.21 ~ 6.13)
+    - 진행중 : 도메인 주도 설계 구현 (10.31 ~ )
+    - 2권 완료 : 오브젝트 (2.21 ~ 6.13), Real MySQL 8.0 (1권) (6.27 ~ 9.27)
 - 🧐 2022 진행한 프로젝트
-  - [부트캠프 백엔드 리뷰어](https://boostcamp.connect.or.kr/mentor_contributor.html)
+  - [부트캠프 7기 백엔드 리뷰어](https://boostcamp.connect.or.kr/mentor_contributor.html)
   - [스터디](https://github.com/st-study-group/study-log) 
     - 3권 스터디 완료 : 코틀린인액션(6.21 ~ 9.6), 이펙티브 코틀린(9.13 ~ 11.15), HTTP 완벽가이드(11.22 ~ 23.2.7)
 - 🤠 2021 진행한 프로젝트
